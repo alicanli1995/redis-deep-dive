@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: leader-board
+  redis:
+    host: localhost
+    port: 6379
+server:
+  port: 1995
