@@ -1,0 +1,12 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  redis:
+    host: localhost
+    port: 6379
+  application:
+    name: dive-5-session-store
+
+server:
+  port: 1995
+
